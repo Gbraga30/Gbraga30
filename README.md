@@ -2,7 +2,7 @@ Meu Perfil
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá!, Meu nome é Guilherme Braga <strong> <br>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme Braga)](https://github.com/anuraghazra/github-readme-stats)
   Estou Cursando Engenharia de Software na Undb
 </p>
 
