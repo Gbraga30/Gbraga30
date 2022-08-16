@@ -1,7 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Guilherme Braga</h1>
 <h2 align="center">4 ° Software Engineering student who is interested to develop AI driven technologies to make life easier.</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbraga30&show_icons=true&locale=en&layout=compact" alt="gbraga30" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gbraga30&show_icons=true&locale=en" alt="gbraga30" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gbraga30&" alt="gbraga30" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbraga30&label=Profile%20views&color=0e75b6&style=flat" alt="gbraga30" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,10 +38,3 @@
 <a href="https://instagram.com/@guilhermebraga_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@guilhermebraga_dev" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbraga30&show_icons=true&locale=en&layout=compact" alt="gbraga30" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gbraga30&show_icons=true&locale=en" alt="gbraga30" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gbraga30&" alt="gbraga30" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbraga30&label=Profile%20views&color=0e75b6&style=flat" alt="gbraga30" /> </p>
